@@ -1,4 +1,4 @@
-# OC-P07-Analyser_les_indicateurs_femme_homme
+# OC-P07-Analyser_les_indicateurs_égalité_femme_homme
 
 
 Analyse des indicateurs de l'égalité femme/homme avec Knime. Retrouver dans ce repo le Workflow Knime (*Projet 7.knwf*). Les données nécéssaires à la réalisation de ce projet ont été enregistrées dans le dossier data du workflow ce qui permet d'y faire appel via un chemin relatif et de pouvoir l'exporter sans problème.
